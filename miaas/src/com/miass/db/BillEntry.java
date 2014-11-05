@@ -8,10 +8,7 @@ package com.miass.db;
 
 import java.sql.Date;
 
-/**
- *
- * @author jasleen
- */
+
 public class BillEntry {
     String name;
     String start,end;

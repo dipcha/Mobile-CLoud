@@ -6,10 +6,6 @@
 
 package com.miass.db;
 
-/**
- *
- * @author jasleen
- */
 public class Emulator {
     String id, name, port, version;
     boolean running;
